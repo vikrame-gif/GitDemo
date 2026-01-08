@@ -1,0 +1,28 @@
+14:39:0:534' --wWinMain BB
+14:39:0:574' --WID13502896
+14:39:0:574' --Register Successed
+14:39:1:5' --Create Window Successed
+14:39:1:7' --CMTVMediaPlayer::GetSubCommands sub CommadFilePlay$D:\rec\Rec 0012.mp4
+14:39:1:7' --CMTVMediaPlayer::GetSubCommands sub CommadSetVolume$100
+14:39:1:10' --Play CommadFilePlay$D:\rec\Rec 0012.mp4 E
+14:39:1:10' --CommadSetVolume$100 B
+14:39:1:10' --CommadSetVolume$100 E
+14:39:1:23' --MovePlayWnd E
+14:39:6:17' --CommadSeek CommadSeek$31.816231,0 B
+14:39:6:18' --CommadSeek CommadSeek$31.816231,0 E
+14:39:7:132' --CommadSeek CommadSeek$41.053201,0 B
+14:39:7:132' --CommadSeek CommadSeek$41.053201,0 E
+14:39:7:858' --CommadSeek CommadSeek$57.474482,0 B
+14:39:7:859' --CommadSeek CommadSeek$57.474482,0 E
+14:39:8:957' --CommadSeek CommadSeek$64.658792,0 B
+14:39:8:958' --CommadSeek CommadSeek$64.658792,0 E
+14:39:10:704' --CommadSeek CommadSeek$59.527142,0 B
+14:39:10:704' --CommadSeek CommadSeek$59.527142,0 E
+14:39:54:756' --CMTVMediaPlayer::GetSubCommands sub CommadPause
+14:39:54:756' --CMTVMediaPlayer::GetSubCommands sub CommadSeek$0.000000,0
+14:39:54:758' --CommadSeek CommadSeek$0.000000,0 B
+14:39:54:759' --CommadSeek CommadSeek$0.000000,0 E
+14:39:54:769' --CMTVMediaPlayer::GetSubCommands sub CommadPause
+14:39:54:770' --CMTVMediaPlayer::GetSubCommands sub CommadSeek$0.000000,0
+14:39:54:774' --CommadSeek CommadSeek$0.000000,0 B
+14:39:54:775' --CommadSeek CommadSeek$0.000000,0 E
