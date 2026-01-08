@@ -6,6 +6,10 @@ public class SampleTest1 {
         System.out.println("Test One executed");
         System.out.println("post jira 2");
         System.out.println("post jira 3");
+        System.out.println("post jira 4");
+        System.out.println("post jira 5");
+        System.out.println("post jira 6");
+        System.out.println("post jira 7");
     }
 
     public void testTwo() {
