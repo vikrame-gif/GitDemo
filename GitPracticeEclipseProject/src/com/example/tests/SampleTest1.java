@@ -14,5 +14,10 @@ public class SampleTest1 {
 
     public void testTwo() {
         System.out.println("Test Two executed");
+        System.out.println("Android");
+        System.out.println("Iphone");
+        System.out.println("11");
+        System.out.println("22");
+        System.out.println("33");
     }
 }
